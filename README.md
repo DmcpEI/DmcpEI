@@ -1,36 +1,44 @@
-# Hi, I'm Diogo Paixão 👋
+<h1 align="center">Hey, I'm Diogo Paixão 👋</h1>
+<h3 align="center">AI & Software Engineer · MSc Student @ Instituto Superior Técnico</h3>
+<p align="center"><em>Building at the intersection of Robotic Vision, Generative AI, and Scalable Systems.</em></p>
 
-**AI & Software Engineer | MSc Student at Instituto Superior Técnico (IST)** *Building the intersection of Robotic Vision, Generative AI, and Scalable Software.*
-
----
-
-### 🚀 About Me
-- [cite_start]🎓 Currently completing my **Master's in AI and Data Science** at [Técnico Lisboa](https://tecnico.ulisboa.pt/)[cite: 43, 44].
-- [cite_start]🤖 Researching **Robotic Grocery Bagging** using Vision-Language Models (VLMs) and YOLO to generate structured, packing-relevant inventories[cite: 50, 57, 59].
-- [cite_start]🌍 Erasmus Alumni from the **University of Maribor**, Slovenia[cite: 47, 48].
-- 💡 Passionate about **Agentic Workflows**, **RAG architectures**, and **Computer Vision**.
+<div align="center">
+  <a href="https://www.linkedin.com/in/diogopaixão" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python (PyTorch, FastAPI), C#, SQL, Bash.
-- [cite_start]**AI/ML:** RAG, Autonomous Agents (MCP), VLMs (Gemini, Qwen-VL), Object Detection (YOLO)[cite: 26, 27, 59, 60].
-- [cite_start]**Tools & Infrastructure:** Git/GitLab (CI/CD), AWS, Docker, Distributed & Parallel Computing[cite: 5, 6, 29].
-- [cite_start]**Languages:** Portuguese (Native), English (Full Professional), Turkish (Elementary)[cite: 9, 10, 11].
+### 🙋 About Me
+
+- 🎓 MSc in **AI & Data Science** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), Lisbon
+- 🤖 Thesis: hybrid **YOLO + VLM** perception pipeline for autonomous robotic grocery packing — giving robots structured knowledge of fragility, leakage risk, and cold-chain requirements
+- 🔍 Building **RCA**, a research-driven AI agent with dual-store retrieval (vector + relational), custom MCP servers, and a stratified evaluation harness
 
 ---
 
-### 💼 Professional Highlights
-- **Quidgest | Software Engineer (Intern):** Developed **RAG** foundations and **MCP (Model Context Protocol)** prototypes for AI agents. [cite_start]Focused on explainable AI, guardrails, and Git-based CI/CD workflows[cite: 19, 20, 26, 27, 29].
-- **ARDITI | [cite_start]Data Science Researcher (Intern):** Researched **NILM (Non-intrusive Load Monitoring)** using deep learning (NILMTK) to optimize energy usage in industrial environments[cite: 30, 31, 34, 39, 41].
+### 🛠️ Languages & Tools
+
+<div display="flex">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+</div>
 
 ---
 
-### 🎓 Featured Project (Master's Thesis)
-**[Robotic Grocery Bagging: Structured Perception for Packing-Relevant Inventory Generation]** I am developing a hybrid perception pipeline that translates RGB images into machine-readable JSON inventories. [cite_start]This allows robots to understand object properties like **fragility, leakage risk, and cold-chain requirements** for safer packing[cite: 50, 56, 58, 59].
-
----
-
-### 📬 Connect with me
-- [cite_start]**LinkedIn:** [linkedin.com/in/diogopaixão](https://www.linkedin.com/in/diogopaixão) [cite: 3]
-- [cite_start]**Email:** diogomcpaixaoprof@gmail.com [cite: 2]
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmcpEI&theme=shadow_blue&layout=compact&hide_border=true" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DmcpEI&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&hide=stars" alt="GitHub Stats"/>
+  </a>
+</div>
