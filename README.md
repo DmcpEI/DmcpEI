@@ -13,7 +13,7 @@
 ### 🙋 About Me
 
 - 🎓 MSc in **AI & Data Science** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), Lisbon
-- 🤖 Thesis: hybrid **YOLO + VLM** perception pipeline for autonomous robotic grocery packing — giving robots structured knowledge of fragility, leakage risk, and cold-chain requirements
+- 🤖 Thesis: Planner-facing perception for autonomous robotic grocery packing — building and evaluating vision pipelines that turn checkout scenes into structured representations for downstream packing
 - 🔍 Building **RCA**, a research-driven AI agent with dual-store retrieval (vector + relational), custom MCP servers, and a stratified evaluation harness
 
 ---
