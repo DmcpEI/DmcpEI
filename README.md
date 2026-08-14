@@ -13,6 +13,7 @@
 ### 🙋 About Me
 
 - 🎓 MSc in **AI & Data Science** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), Lisbon
+- 🚀 **Working Student AI/ML Engineer** at [Artiquare](https://www.artiquare.com/), building production agentic infrastructure for enterprise clients
 - 🤖 Thesis: Planner-facing perception for autonomous robotic grocery packing — building and evaluating vision pipelines that turn checkout scenes into structured representations for downstream packing
 - 🔍 Building **RCA**, a research-driven AI agent with dual-store retrieval (vector + relational), custom MCP servers, and a stratified evaluation harness
 
@@ -34,11 +35,11 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmcpEI&theme=shadow_blue&layout=compact&hide_border=true" alt="Top Languages"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DmcpEI&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&hide=stars" alt="GitHub Stats"/>
-  </a>
+<div align="center"> 
+  <a href="https://github.com/stats-organization/github-stats-extended"> 
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DmcpEI&theme=shadow_blue&layout=compact&hide_border=true" alt="Top Languages"/> 
+  </a> 
+  <a href="https://github.com/stats-organization/github-stats-extended"> 
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=DmcpEI&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&hide=stars" alt="GitHub Stats"/> 
+  </a> 
 </div>
